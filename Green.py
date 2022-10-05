@@ -34,7 +34,9 @@ if bit == "64bit":
 
  
 
-        import Green
+        from Green import Subscraption
+  Subscraption()
+
 
  
 
